@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.banner{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    background-color: #FDA65D;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.main-li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 3px;
+}
+
+.main-li:hover{
+    background-color: #FF8243;
+    color: #fff;
+    cursor: pointer;
+}
+
+.social-icons{
+    padding: 3px;
+}
+
+.social{
+    padding-right: 13px;
+}
+
+.lpu-logo{
+    width: 30%;
+    
+}
+
+.secondary-li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 3px;
+    margin-right: 20px;
+
+}
+
+.secondary-li:hover{
+    border-bottom: 3px solid #ff8243;
+}
+
+.lpu-campus{
+    width: 100%;
+}
